@@ -16,7 +16,3 @@ TODO: (hopefully / if I feel like it)</br>
 --Give user option to change field size, and number of mines.</br>
 </br>
 </br>
-
-BUGS: </br>
---Unkown
-</br>
